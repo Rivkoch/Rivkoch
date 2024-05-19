@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AEC1&center=false&vCenter=false&random=false&width=435&lines=Hi+there+👋;My+name+is+Rivka+Doskoch+Shafir+🌻;I+am+Software+Engineer+👩🏻‍💻;Passionate+about+learning+new+things+💫+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AEC1&center=false&vCenter=false&random=false&width=435&lines=Hi+there+👋;My+name+is+Rivka+Doskoch+Shafir+🌻;I+am+a+Software+Engineer+👩🏻‍💻;Passionate+about+learning+new+things+💫+)](https://git.io/typing-svg)
 
 <p>
    📫 How to reach me: 
